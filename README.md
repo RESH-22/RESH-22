@@ -1,10 +1,12 @@
-- 👋 Hi, I’m RESHMITHA R
-- 👀 I’m interested in WORKING FOR AN ORGANIZED COMPANY
+- 👋 Hi, I’m RESHMITHA R, a final-year Electronics and Communication Engineering (ECE) student
+- 🔭 I’m currently exploring career opportunities in Core ECE or IT sectors
+- 🛠️ Skills: C Programming, Python, Java, Ui/Ux, 3D Modelling
+- 👀 I’m more interested in WORKING FOR AN ORGANIZED COMPANY
 - 🌱 I’m currently learning ECE
 - 💞️ I’m looking to collaborate on CODING
-- 📫 How to reach me MESSAGE ME
+- 📫 How to reach me rreshmitha22@gmail.com
 - 😄 Pronouns: HER
-- ⚡ Fun fact: DEVELOPING MY SKILLS CURRENTLY
+- 🚀 Excited to start my career and contribute to innovative projects!
 
 <!---
 RESH-22/RESH-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
