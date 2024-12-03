@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RESHMITHA R 
 - 🔭 I’m currently exploring career opportunities in Core ECE or IT sectors
-- 🛠️ Skills: C Programming, Python, Java, Ui/Ux, 3D Modelling
+- 🛠️ Skills: C Programming, Python, Java, Ui/Ux, 3D Modelling, Sql
 - 👀 I’m more interested in upskilling with new technologies
 - 🌱 I’m currently persuing final-year Electronics and Communication Engineering (ECE) student
 - 💞️ I’m looking to collaborate on CODING
