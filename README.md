@@ -1,55 +1,47 @@
-<!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RESHMITHA%20R&fontSize=40&fontAlignY=35&animation=twinkling" />
+<!-- Top Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=RESHMITHA%20R&fontSize=40&fontAlignY=35&animation=twinkling" />
 
-<h3 align="center">✨ Electronics & Communication Engineer | AI Enthusiast ✨</h3>
+<h2 align="center">👩‍💻 Girl in Tech | AI Enthusiast | Future Software Engineer 🚀</h2>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)" width="300"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300"/>
 </p>
 
 ---
 
 ## 💫 About Me
 
-🌸 Final Year **ECE Student**  
-🚀 Exploring opportunities in **Core ECE & IT sectors**  
-💡 Passionate about **Artificial Intelligence & Computer Vision**  
-🌱 Currently learning and building with **Python & Java**  
+🌸 Final Year Electronics & Communication Engineering Student  
+💻 Passionate about Artificial Intelligence & Computer Vision  
+🚀 Exploring opportunities in Core ECE & IT sectors  
+🌱 Constantly learning and building new skills  
 🤝 Open to collaboration and innovative ideas  
 
 ---
 
-## 🛠️ Tech Universe
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ## 🌟 Interests
 
-- 🤖 Artificial Intelligence  
-- 👁️ Computer Vision  
-- 🔌 Embedded Systems  
-- 🎨 UI/UX Design  
-- 💻 Software Development  
+🤖 Artificial Intelligence  
+👁️ Computer Vision  
+🔌 Embedded Systems  
+🎨 UI/UX Design  
+💻 Software Development  
 
 ---
 
-## 📊 GitHub Energy
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RESH-22&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RESH-22&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🌈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RESH-22&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RESH-22&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RESH-22&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -67,6 +59,6 @@
 
 ---
 
-> 🌟 *“Dream big. Work smart. Stay consistent.”*
+> 💜 “Code. Create. Conquer.”
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
