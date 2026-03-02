@@ -1,65 +1,55 @@
-- 👋 Hi, I’m RESHMITHA R 
-- 🔭 I’m currently exploring career opportunities in Core ECE or IT sectors
-- 🛠️ Skills: C Programming, Python, Java, Ui/Ux, 3D Modelling, Sql
-- 👀 I’m more interested in upskilling with new technologies
-- 🌱 I’m currently persuing final-year Electronics and Communication Engineering (ECE) student
-- 💞️ I’m looking to collaborate on CODING
-- 📫 How to reach me rreshmitha22@gmail.com
-- 😄 Pronouns: HER
-- 🚀 Excited to start my career and contribute to innovative projects!
+<!-- Animated Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RESHMITHA%20R&fontSize=40&fontAlignY=35&animation=twinkling" />
 
-<!---
-RESH-22/RESH-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Reshmitha+R;Electronics+%26+Communication+Engineer;AI+%7C+Computer+Vision+Enthusiast;Future+Software+Engineer+🚀" />
-</h1>
+<h3 align="center">✨ Electronics & Communication Engineer | AI Enthusiast ✨</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me
 
-✨ Final Year **Electronics & Communication Engineering (ECE)** Student  
-💡 Passionate about **Artificial Intelligence & Emerging Technologies**  
-🚀 Exploring career opportunities in **Core ECE & IT sectors**  
-🌱 Currently upskilling in **Python, Java & Modern Development Tools**  
-🤝 Open to collaborating on innovative ideas  
-💖 Love learning, building & growing every day  
+🌸 Final Year **ECE Student**  
+🚀 Exploring opportunities in **Core ECE & IT sectors**  
+💡 Passionate about **Artificial Intelligence & Computer Vision**  
+🌱 Currently learning and building with **Python & Java**  
+🤝 Open to collaboration and innovative ideas  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🌟 Areas of Interest
+## 🌟 Interests
 
-🔹 Artificial Intelligence  
-🔹 Computer Vision  
-🔹 Embedded Systems  
-🔹 UI/UX Design  
-🔹 Full Stack Development  
-🔹 Software Engineering  
+- 🤖 Artificial Intelligence  
+- 👁️ Computer Vision  
+- 🔌 Embedded Systems  
+- 🎨 UI/UX Design  
+- 💻 Software Development  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Energy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RESH-22&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RESH-22&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RESH-22&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RESH-22&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RESH-22&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -77,12 +67,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## ✨ Personal Motto
+> 🌟 *“Dream big. Work smart. Stay consistent.”*
 
-> "Stay curious. Keep learning. Build fearlessly."
-
----
-
-<p align="center">
-  💜 Thank you for visiting my profile!
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
