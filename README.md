@@ -1,11 +1,7 @@
 <!-- Top Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=RESHMITHA%20R&fontSize=40&fontAlignY=35&animation=twinkling" />
 
-<h2 align="center">👩‍💻 Girl in Tech | AI Enthusiast | Future Software Engineer 🚀</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300"/>
-</p>
+<h2 align="center">👩‍💻 | AI Enthusiast | Future Software Engineer 🚀</h2>
 
 ---
 
