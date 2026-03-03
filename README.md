@@ -1,44 +1,47 @@
-<!-- Top Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=RESHMITHA%20R&fontSize=40&fontAlignY=35&animation=twinkling" />
 
-<h2 align="center">👩‍💻 | AI Enthusiast | Future Software Engineer 🚀</h2>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8e44ad&height=220&section=header&text=RESHMITHA%20R&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
+<h3 align="center">👩‍💻 AI Enthusiast | ECE Graduate | Future Software Engineer 🚀</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Passionate+About+AI+%26+Technology;Building+Skills+Everyday;Code.+Learn.+Grow.;Future+Tech+Leader" />
+</p>
+
+<!-- Coding Girl GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🌸 About Me
 
-🌸 Final Year Electronics & Communication Engineering Student  
-💻 Passionate about Artificial Intelligence & Computer Vision  
-🚀 Exploring opportunities in Core ECE & IT sectors  
-🌱 Constantly learning and building new skills  
-🤝 Open to collaboration and innovative ideas  
+```python
+class Reshmitha:
+    def __init__(self):
+        self.role = "AI Enthusiast"
+        self.education = "Electronics & Communication Engineering"
+        self.interests = ["Artificial Intelligence", "Computer Vision", "Software Development"]
+        self.learning = "Exploring modern technologies & real-world problem solving"
+        self.goal = "To build impactful tech solutions 🚀"
+
+    def say_hi(self):
+        print("Thanks for visiting my profile 💜")
+````
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,mysql,html,css" />
 </p>
 
 ---
 
-## 🌟 Interests
-
-🤖 Artificial Intelligence  
-👁️ Computer Vision  
-🔌 Embedded Systems  
-🎨 UI/UX Design  
-💻 Software Development  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RESH-22&show_icons=true&theme=radical&hide_border=true" height="160"/>
@@ -47,19 +50,32 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌟 Currently Focusing On
 
-<p align="center">
-  <a href="mailto:rreshmitha22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RESH-22">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 💻 Software Development
+* 🚀 Career Growth in IT / Core Tech
 
 ---
 
-> 💜 “Code. Create. Conquer.”
+## 🌐 Connect With Me
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+📧 **Email:** [rreshmitha22@gmail.com](mailto:rreshmitha22@gmail.com)
+💼 **LinkedIn:** (Add your LinkedIn link here)
+
+---
+
+<p align="center">
+  ✨ <b>"Keep Learning. Keep Building. Keep Growing."</b> ✨
+</p>
+
+<!-- Footer Wave -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:ff69b4&height=120&section=footer"/>
+```
+
+---
+
+
+Tell me your vibe 😎💜
