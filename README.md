@@ -26,7 +26,7 @@
 ```python
 class Reshmitha:
     def __init__(self):
-        self.role = "AI Enthusiast"
+        self.role = "DEVELOPER"
         self.education = "Electronics & Communication Engineering"
         self.interests = ["Artificial Intelligence", "Computer Vision", "Software Development"]
         self.learning = "Exploring modern technologies & real-world problem solving"
