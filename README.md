@@ -2,7 +2,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8e44ad&height=220&section=header&text=RESHMITHA%20R&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
-<h3 align="center"> Future Software Engineer | Web Developer | Ui/Ux Designer | AI Enthusiast </h3>
+<h3 align="center"> SOFTWARE DEVELOPER | WEB DEVELOPER | UI/UX DESIGNER | AI ENTHUSIAST </h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 ```python
 class Reshmitha:
@@ -33,15 +33,15 @@ class Reshmitha:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,ai,opencv,java,idea,git,github,vscode,mysql,firebase,html,css,javascript,netlify,arduino,matlab,figma,notion,windows" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RESH-22&show_icons=true&theme=radical&hide_border=true" height="160"/>
@@ -50,12 +50,12 @@ class Reshmitha:
 
 ---
 
-## 🌟 Currently Focusing On
+## Activity Graph
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 💻 Software Development
-* 🚀 Career Growth in IT / Core Tech
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RESH-22&theme=react-dark&hide_border=true"/>
+</p>
+
 
 ---
 
@@ -67,15 +67,15 @@ class Reshmitha:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-📧 **Email:** [rreshmitha22@gmail.com](mailto:rreshmitha22@gmail.com)
-💼 **LinkedIn:** (Add your LinkedIn link here)
+**Email:** [rreshmitha22@gmail.com](mailto:rreshmitha22@gmail.com)
+**LinkedIn:** (https://www.linkedin.com/in/reshmitha-r-612691288/)
 
 ---
 
 <p align="center">
-  ✨ <b>"Keep Learning. Keep Building. Keep Growing."</b> ✨
+   <b>"Keep Learning. Keep Building. Keep Growing."</b> 
 </p>
 
 <!-- Footer Wave -->
