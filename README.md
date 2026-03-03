@@ -3,6 +3,11 @@
 
 <h2 align="center">👩‍💻 | AI Enthusiast | Future Software Engineer 🚀</h2>
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300"/>
+</p>
+
 ---
 
 ## 💫 About Me
