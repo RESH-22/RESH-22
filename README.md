@@ -15,6 +15,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:8e44ad,100:9400d3&height=4&section=header"/>
+</p>
+
+---
 
 ## About Me
 
@@ -31,8 +36,6 @@ class Reshmitha:
         print("Thanks for visiting my profile 💜")
 ````
 
----
-
 ## Tech Stack
 
 <p align="center">
@@ -44,7 +47,6 @@ class Reshmitha:
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RESH-22&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RESH-22&theme=radical&hide_border=true" height="160"/>
 </p>
 
@@ -53,13 +55,12 @@ class Reshmitha:
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RESH-22&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RESH-22&theme=dracula&hide_border=true"/>
 </p>
-
 
 ---
 
-
+## Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RESH-22/RESH-22/output/github-contribution-grid-snake.svg" />
@@ -81,9 +82,8 @@ class Reshmitha:
 <!-- Footer Wave -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:ff69b4&height=120&section=footer"/>
-```
+
 
 ---
 
 
-Tell me your vibe 😎💜
