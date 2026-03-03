@@ -11,7 +11,7 @@
 
 <!-- Coding Girl GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV4M2Y2eHpyb2MzZWp4bm4yNGl5dGJheHljZXpjdWNoMXR3ZG5reSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
 
 ---
