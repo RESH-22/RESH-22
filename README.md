@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Passionate+About+AI+%26+Technology;Building+Skills+Everyday;Code.+Learn.+Grow.;Future+Tech+Leader" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Passionate+About+AI+%26+Technology;Building+Skills+Everyday;Code.+Learn.+Grow.;Future+Tech" />
 </p>
 
 <!-- Coding Girl GIF -->
