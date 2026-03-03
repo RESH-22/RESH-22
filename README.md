@@ -36,18 +36,30 @@ class Reshmitha:
         print("Thanks for visiting my profile 💜")
 ````
 
+## Detailed Metrics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RESH-22&theme=dracula" />
+
+
+---
+
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ai,opencv,java,idea,git,github,vscode,mysql,firebase,html,css,javascript,netlify,arduino,matlab,figma,notion,windows" />
 </p>
 
+- **Languages:** Python, Java, Sql
+- **Web:** HTML, CSS, JavaScript, UI/UX  
+- **Tools:** Git, GitHub, VS Code, Microsoft Office  
+
+
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RESH-22&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RESH-22&theme=dracula&hide_border=true" height="160"/>
 </p>
 
 ---
