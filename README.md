@@ -59,6 +59,14 @@ class Reshmitha:
 
 ---
 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RESH-22/RESH-22/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 📧 **Email:** [rreshmitha22@gmail.com](mailto:rreshmitha22@gmail.com)
