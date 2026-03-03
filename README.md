@@ -2,7 +2,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8e44ad&height=220&section=header&text=RESHMITHA%20R&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
-<h3 align="center">👩‍💻 AI Enthusiast | ECE Graduate | Future Software Engineer 🚀</h3>
+<h3 align="center"> Future Software Engineer | Web Developer | Ui/Ux Designer | AI Enthusiast </h3>
 
 <!-- Typing Animation -->
 <p align="center">
